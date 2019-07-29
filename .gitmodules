@@ -1,0 +1,3 @@
+[submodule "submodules/XamarinXposed"]
+	path = submodules/XamarinXposed
+	url = https://github.com/AeonLucid/XamarinXposed.git
